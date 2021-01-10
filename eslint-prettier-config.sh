@@ -270,4 +270,4 @@ fi
 
 echo
 echo -e "${GREEN}Finished setting up!${NC}"
-ech0
+echo
